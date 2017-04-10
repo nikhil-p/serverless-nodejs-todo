@@ -1,0 +1,11 @@
+
+{
+  "name": "todo-service",
+  "version": "1.0.0",
+  "description": "Serverless CRUD service exposing a REST HTTP interface",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^2.0.3"
+  }
+}
